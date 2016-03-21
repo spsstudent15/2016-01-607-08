@@ -1,0 +1,27 @@
+{"books":[
+
+{
+"title":"The Power Broker",
+"author":"Robert Caro",
+"year":1974,
+"readinglevel":"Adult",
+"genre":"History"
+},
+
+{
+"title":"The Works: Anatomy of a City",
+"author":"Kate Ascher",
+"year":2007,
+"readinglevel":"Young Adult",
+"genre":"Engineering"
+},
+
+{
+"title":"Building Construction: Principles, Materials, and Systems",
+"author":"Madan Mehta, Walter R. Scarborough, Diane Armpriest",
+"year":2012,
+"readinglevel":"Adult",
+"genre":"Engineering"
+}]
+
+}
